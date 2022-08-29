@@ -135,7 +135,7 @@ body {
         text-align: center;
     }
 
-    .about {
+    .sobre {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
     }
